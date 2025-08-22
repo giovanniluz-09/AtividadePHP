@@ -15,19 +15,17 @@
     <button type="submit">Enviar</button> <br> <br>
 </form>
 <?php 
-    // valores iniciais para sumir o erro
-    $num1 = 5;
-    $num2 = 0;
  if(isset($_GET['number1']) && isset($_GET['number2'])){
      $num1 = $_GET['number1'];
      $num2 = $_GET['number2'];
-    }
-    $sum = $num1 + $num2;
-    
-    if($sum > 20) {
-        echo "Resultado: " . $sum += 8;
-    } else {
-        echo "Resultado: " . $sum -= 5;
+     
+     $sum = $num1 + $num2;
+     
+     if($sum > 20) {
+         echo "Resultado: " . $sum += 8;
+     } else {
+         echo "Resultado: " . $sum -= 5;
+     }
     }
     ?>
     <br> <br> <button><a href="./index.php">Voltar</a></button>

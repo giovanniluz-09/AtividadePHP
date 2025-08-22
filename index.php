@@ -13,6 +13,9 @@
         <a href="./ex03.php">Exercicio 3</a>
         <a href="./ex04.php">Exercicio 4</a>
         <a href="./ex05.php">Exercicio 5</a>
+        <a href="./ex06.php">Exercicio 6</a>
+        <a href="./ex07.php">Exercicio 7</a>
+        <a href="./ex08.php">Exercicio 8</a>
     </nav>
 </body>
 </html>
