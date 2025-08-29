@@ -20,6 +20,14 @@
         <a href="./ex10.php">Exercicio 10</a> <br> 
         <a href="./ex11.php">Exercicio 11</a> <br> 
         <a href="./ex12.php">Exercicio 12</a> <br> 
+        <a href="./ex13.php">Exercicio 13</a> <br> 
+        <a href="./ex14.php">Exercicio 14</a> <br> 
+        <a href="./ex15.php">Exercicio 15</a> <br> 
+        <a href="./ex16.php">Exercicio 16</a> <br> 
+        <a href="./ex17.php">Exercicio 17</a> <br> 
+        <a href="./ex18.php">Exercicio 18</a> <br> 
+        <a href="./ex19.php">Exercicio 19</a> <br> 
+        <a href="./ex20.php">Exercicio 20</a> <br> 
     </nav>
 </body>
 </html>

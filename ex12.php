@@ -17,7 +17,7 @@ if (isset($_GET['word'])) {
     $word = $_GET['word'];
 
 
-    for ($i=0; $i < 5; $i++) { 
+    for ($i=0; $i < 6; $i++) { 
         echo str_repeat($word, $i) . "<br>";
     }
 }
